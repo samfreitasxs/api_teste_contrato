@@ -1,0 +1,25 @@
+{
+  "name": "api_test_contrato",
+  "version": "1.0.0",
+  "description": "Exemplo de Teste de Contrato de API",
+  "main": "request.js",
+  "scripts": {
+    "test": "mocha request.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Samuel Freitas",
+  "license": "ISC",
+  "homepage": " ",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "dotenv": "^7.0.0",
+    "joi": "^10.6.0",
+    "joi-assert": "^0.0.3",
+    "mocha": "^10.2.0",
+    "request": "^2.81.0",
+    "supertest": "^3.4.2"
+  }
+}
