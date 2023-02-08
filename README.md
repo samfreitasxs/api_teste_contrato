@@ -72,8 +72,9 @@ CONTRATO DE API:
 ```shell
 mocha request.js 
 ```
+Se tudo estiver certo, o resultado vai ser como esse abaixo:
 
-
+![Getting Started](./images/s.jpg)
 
 REFERÊNCIAS:
 ---
@@ -84,4 +85,4 @@ REFERÊNCIAS:
 * [JOI - https://github.com/hapijs/joi](https://github.com/hapijs/joi)
 * [JOI-Assert - https://github.com/Bartvds/joi-assert](https://github.com/Bartvds/joi-assert)
 * [http://www.restapitutorial.com/httpstatuscodes.html](http://www.restapitutorial.com/httpstatuscodes.html)
-* https://github.com/eduardocini/api_test
+* [https://github.com/eduardocini/api_test](https://github.com/eduardocini/api_test)
