@@ -72,9 +72,6 @@ CONTRATO DE API:
 ```shell
 mocha request.js 
 ```
-Se tudo estiver certo, o resultado vai ser como esse abaixo:
-
-![Getting Started](./images/s.jpg)
 
 REFERÊNCIAS:
 ---
