@@ -72,7 +72,7 @@ CONTRATO DE API:
 ```shell
 mocha request.js 
 ```
-teste novo modelo 
+
 REFERÊNCIAS:
 ---
 * [NodeJS - https://nodejs.org/en/download/](https://nodejs.org/en/download/)
