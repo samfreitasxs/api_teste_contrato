@@ -44,6 +44,8 @@ teste etse teste
 CONTRATO DE API:
 ---
 
+
+
 * Teste de contrato tem o objetivo de garantir que o conteúdo fornecido não foi modificado, podemos dizer que tem a finalidade de validar se o contrato acordado não foi quebrado, deve validar se o schema permanece o mesmo garantindo assim a integridade dos dados na comunicação entre client/server . 
 
 * É possível validar se os dados continuam do mesmo tipo, se a estrutura não foi modificada, valores limites, restringir valores recebidos etc...
